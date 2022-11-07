@@ -1,2 +1,3 @@
 # mohwalm
-cnn
+convolutional neural network
+
